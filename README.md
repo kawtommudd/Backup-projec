@@ -37,3 +37,7 @@ NodeEditor : https://github.com/paceholder/nodeeditor
 Qt : https://www.qt.io 
 
 OpenCV : https://opencv.org
+
+## คู่มือการใช้งาน CVDev
+
+[👉 คลิกเพื่อเข้าสู่เว็บไซต์คู่มือการใช้งาน](https://kawtommudd.github.io/CVDev-Manual/)
